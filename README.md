@@ -4,6 +4,7 @@
 
 Este projeto é um gerador de senhas que permite aos usuários personalizar a criação de senhas de acordo com suas preferências. A aplicação possui uma interface gráfica criada usando o framework Flutter com a biblioteca Flet em Python.
 
+#
 
 ![screenPasswordGenerator](https://github.com/nascimentocode/password-generator/assets/68881676/082ebbac-bab8-4648-8069-a8df50fdde90)
 
