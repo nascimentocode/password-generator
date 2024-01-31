@@ -6,7 +6,7 @@ Este projeto é um gerador de senhas que permite aos usuários personalizar a cr
 
 ## Imagens
 
-![screenPasswordGenerator](https://github.com/nascimentocode/password-generator/assets/68881676/082ebbac-bab8-4648-8069-a8df50fdde90)
+![screenPasswordGenerator](https://github.com/nascimentocode/password-generator/assets/68881676/7a79aec4-04c5-41e9-ac43-b6b1ed8bd00f)
 
 ## Funcionalidades
 
